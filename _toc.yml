@@ -1,0 +1,30 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro.md
+chapters:
+- file: src/02_single_qubit.ipynb
+- file: src/02b_bloch_sphere.ipynb
+- file: src/02c_single_qubit_circuits.ipynb
+- file: src/02d_single_qubit_circuits2.ipynb
+- file: src/03_multi_qubit.ipynb
+- file: src/03b_multi_qubit_circuit.ipynb
+- file: src/03c_multi_qubit_measurement.ipynb
+- file: src/03d_no_cloning.ipynb
+- file: src/04_density_matrix.ipynb
+- file: src/04b_coding.ipynb
+- file: src/04c_quantum_teleportation.ipynb
+- file: src/04d_quantum_error_correction.ipynb
+- file: src/05_deutsch_jozsa.ipynb
+- file: src/05b_simons.ipynb
+- file: src/06_grovers.ipynb
+- file: src/07_shor_prelim.ipynb
+- file: src/07b_quantum_fourier_transform.ipynb
+- file: src/07c_modular_exponentiation.ipynb
+- file: src/07d_quantum_phase_estimation.ipynb
+- file: src/07e_quantum_order_finding.ipynb
+- file: src/A1_complex.ipynb
+- file: src/A2_binary.ipynb
+- file: src/B1_linear_algebra.ipynb
+- file: src/C1_factoring.ipynb

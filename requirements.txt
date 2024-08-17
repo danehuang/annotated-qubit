@@ -1,0 +1,9 @@
+jupyter-book
+matplotlib
+numpy
+pandas
+pylatexenc
+qiskit
+qiskit_aer
+sphinx
+sphinx-sitemap
