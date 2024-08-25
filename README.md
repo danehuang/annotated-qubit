@@ -1,5 +1,7 @@
 # The Annotated Qubit 
 
+Web version: [(https://danehuang.github.io/annotated-qubit/)](https://danehuang.github.io/annotated-qubit/)
+
 We provide an introduction to quantum computing (QC) and quantum information (QI).
 The series of notes are partially based off of an advanced undergraduate/graduate
 course taught at San Francisco State University (SFSU). The 
