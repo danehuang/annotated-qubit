@@ -48,3 +48,7 @@ sphinx:
     html_baseurl: https://danehuang.github.io/annotated-qubit/intro.html
   extra_extensions:
     - sphinx_sitemap
+
+sitemap:
+  changefreq: daily
+  priority: 0.5
