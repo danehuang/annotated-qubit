@@ -33,6 +33,11 @@ html:
   use_repository_button: true
   extra_head: "_includes/head.html"
 
+html_meta:
+  description: "A Jupyter Book about quantum computing and quantum information science"
+  keywords: "quantum computing, quantum information, quantum circuit, qubits, shor's algorithm, grover's search"
+
+
 parse:
   myst_enable_extensions:
     # don't forget to list any other extensions you want enabled,
